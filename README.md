@@ -1,0 +1,4 @@
+stratification
+==============
+
+Stratification methods implementation
